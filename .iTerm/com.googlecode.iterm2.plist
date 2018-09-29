@@ -819,10 +819,10 @@
     <string>269 152 606 469 0 0 1920 1178
     </string>
     <key>NSWindow Frame SharedPreferences</key>
-    <string>673 562 796 486 0 0 1920 1178
+    <string>673 544 796 486 0 0 1920 1178
     </string>
     <key>NSWindow Frame iTerm Window 0</key>
-    <string>0 271 1785 907 0 0 1920 1178
+    <string>0 95 1785 1083 0 0 1920 1178
     </string>
     <key>NSWindow Frame iTerm Window 1</key>
     <string>0 95 1785 1083 0 0 1920 1178
@@ -1503,7 +1503,7 @@
         <key>Non-ASCII Anti Aliased</key>
         <true/>
         <key>Normal Font</key>
-        <string>NotoMono 18</string>
+        <string>FiraCode-Regular 18</string>
         <key>Only The Default BG Color Uses Transparency</key>
         <false/>
         <key>Option Key Sends</key>
