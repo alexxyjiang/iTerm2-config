@@ -831,13 +831,13 @@
     <key>NSWindow Frame NSFontPanel</key>
     <string>1200 136 445 77 0 0 1920 1177 </string>
     <key>NSWindow Frame SUUpdateAlert</key>
-    <string>650 614 620 392 0 0 1920 1177 </string>
+    <string>530 500 620 392 0 0 1680 1027 </string>
     <key>NSWindow Frame SessionsPreferences</key>
     <string>269 152 606 469 0 0 1920 1177 </string>
     <key>NSWindow Frame SharedPreferences</key>
     <string>529 338 918 514 0 0 1920 1177 </string>
     <key>NSWindow Frame iTerm Window 0</key>
-    <string>0 226 1625 951 0 0 1920 1177 </string>
+    <string>145 196 1610 951 0 0 1920 1177 </string>
     <key>NSWindow Frame iTerm Window 1</key>
     <string>0 95 1785 1041 0 0 1920 1177 </string>
     <key>NSWindow Frame iTerm Window 2</key>
@@ -1578,6 +1578,8 @@
         <true/>
         <key>Shortcut</key>
         <string></string>
+        <key>Show Status Bar</key>
+        <true/>
         <key>Silence Bell</key>
         <false/>
         <key>Smart Cursor Color</key>
@@ -1676,6 +1678,121 @@
         </array>
         <key>Space</key>
         <integer>0</integer>
+        <key>Status Bar Layout</key>
+        <dict>
+          <key>advanced configuration</key>
+          <dict>
+            <key>algorithm</key>
+            <integer>0</integer>
+            <key>font</key>
+            <string>.AppleSystemUIFont 12</string>
+          </dict>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>class</key>
+              <string>iTermStatusBarCPUUtilizationComponent</string>
+              <key>configuration</key>
+              <dict>
+                <key>knobs</key>
+                <dict>
+                  <key>base: compression resistance</key>
+                  <integer>1</integer>
+                  <key>base: priority</key>
+                  <real>5</real>
+                  <key>shared text color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.63</real>
+                    <key>Color Space</key>
+                    <string>sRGB</string>
+                    <key>Green Component</key>
+                    <real>0.63</real>
+                    <key>Red Component</key>
+                    <real>0.90000000000000002</real>
+                  </dict>
+                </dict>
+                <key>layout advanced configuration dictionary value</key>
+                <dict>
+                  <key>algorithm</key>
+                  <integer>0</integer>
+                  <key>font</key>
+                  <string>.AppleSystemUIFont 12</string>
+                </dict>
+              </dict>
+            </dict>
+            <dict>
+              <key>class</key>
+              <string>iTermStatusBarMemoryUtilizationComponent</string>
+              <key>configuration</key>
+              <dict>
+                <key>knobs</key>
+                <dict>
+                  <key>base: compression resistance</key>
+                  <integer>1</integer>
+                  <key>base: priority</key>
+                  <real>5</real>
+                  <key>shared text color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.63</real>
+                    <key>Color Space</key>
+                    <string>sRGB</string>
+                    <key>Green Component</key>
+                    <real>0.90000000000000002</real>
+                    <key>Red Component</key>
+                    <real>0.63</real>
+                  </dict>
+                </dict>
+                <key>layout advanced configuration dictionary value</key>
+                <dict>
+                  <key>algorithm</key>
+                  <integer>0</integer>
+                  <key>font</key>
+                  <string>.AppleSystemUIFont 12</string>
+                </dict>
+              </dict>
+            </dict>
+            <dict>
+              <key>class</key>
+              <string>iTermStatusBarNetworkUtilizationComponent</string>
+              <key>configuration</key>
+              <dict>
+                <key>knobs</key>
+                <dict>
+                  <key>base: compression resistance</key>
+                  <integer>1</integer>
+                  <key>base: priority</key>
+                  <real>5</real>
+                  <key>shared text color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.90000000000000002</real>
+                    <key>Color Space</key>
+                    <string>sRGB</string>
+                    <key>Green Component</key>
+                    <real>0.63</real>
+                    <key>Red Component</key>
+                    <real>0.63</real>
+                  </dict>
+                </dict>
+                <key>layout advanced configuration dictionary value</key>
+                <dict>
+                  <key>algorithm</key>
+                  <integer>0</integer>
+                  <key>font</key>
+                  <string>.AppleSystemUIFont 12</string>
+                </dict>
+              </dict>
+            </dict>
+          </array>
+        </dict>
         <key>Sync Title</key>
         <false/>
         <key>Tags</key>
@@ -1710,7 +1827,9 @@
     </array>
     <key>NoSyncAllAppVersions</key>
     <array>
+      <string>3.3.2</string>
       <string>3.2.9</string>
+      <string>3.3.1</string>
       <string>3.3.0</string>
     </array>
     <key>NoSyncBFPRecents</key>
@@ -1736,9 +1855,9 @@
     <key>NoSyncInstallationId</key>
     <string>444C3C29-4D58-4259-BAD3-21112D823311</string>
     <key>NoSyncLastTipTime</key>
-    <real>578198110.41780102</real>
+    <real>588134919.95319998</real>
     <key>NoSyncLaunchExperienceControllerRunCount</key>
-    <integer>1</integer>
+    <integer>12</integer>
     <key>NoSyncNeverRemindPrefsChangesLostForFile</key>
     <true/>
     <key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2091,6 +2210,14 @@
           <key>isTerminal</key>
           <true/>
           <key>name</key>
+          <string>currentTab.currentSession.termid</string>
+          <key>nonterminalContext</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>isTerminal</key>
+          <true/>
+          <key>name</key>
           <string>currentTab.currentSession.terminalWindowName</string>
           <key>nonterminalContext</key>
           <integer>0</integer>
@@ -2164,6 +2291,14 @@
           <true/>
           <key>name</key>
           <string>currentTab.currentSession.commandLine</string>
+          <key>nonterminalContext</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>isTerminal</key>
+          <true/>
+          <key>name</key>
+          <string>number</string>
           <key>nonterminalContext</key>
           <integer>0</integer>
         </dict>
@@ -2513,6 +2648,9 @@
       <string>0069</string>
       <string>0070</string>
       <string>0071</string>
+      <string>0072</string>
+      <string>0073</string>
+      <string>0074</string>
     </array>
     <key>OnlyWhenMoreTabs</key>
     <true/>
@@ -2586,8 +2724,10 @@
     <key>SUHasLaunchedBefore</key>
     <true/>
     <key>SULastCheckTime</key>
-    <date>2019-08-05T06:13:42Z</date>
+    <date>2019-08-27T09:24:32Z</date>
     <key>SUSendProfileInfo</key>
+    <false/>
+    <key>SUUpdateRelaunchingMarker</key>
     <false/>
     <key>SavePasteHistory</key>
     <false/>
@@ -2646,7 +2786,7 @@
     <key>findRegex_iTerm</key>
     <false/>
     <key>iTerm Version</key>
-    <string>3.3.0</string>
+    <string>3.3.2</string>
     <key>kCPKSelectionViewPreferredModeKey</key>
     <integer>6</integer>
     <key>kCPKSelectionViewShowHSBTextFieldsKey</key>
