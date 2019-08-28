@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
     <key>AdjustWindowForFontSizeChange</key>
@@ -802,24 +803,24 @@
     </array>
     <key>NSTableView Columns v2 KeyBingingTable</key>
     <data>
-  YnBsaXN0MDDUAQIDBAUGNjdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
-  AAGGoK4HCA8aGxwdHh8gJjAxMlUkbnVsbNIJCgsOWk5TLm9iamVjdHNWJGNsYXNzogwN
-  gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
-  aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
-  ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-  DIAIgAlRMSNAc7Gdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
-  TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
-  ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
-  AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
-  AAAAADoAAAAAAAAAAAAAAAAAAAFM
+      YnBsaXN0MDDUAQIDBAUGNjdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+      AAGGoK4HCA8aGxwdHh8gJjAxMlUkbnVsbNIJCgsOWk5TLm9iamVjdHNWJGNsYXNzogwN
+      gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
+      aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
+      ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
+      DIAIgAlRMSNAc7Gdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+      TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
+      ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
+      AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
+      AAAAADoAAAAAAAAAAAAAAAAAAAFM
     </data>
     <key>NSTableView Sort Ordering v2 KeyBingingTable</key>
     <data>
-  YnBsaXN0MDDUAQIDBAUGFBVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
-  AAGGoKMHCA1VJG51bGzSCQoLDFpOUy5vYmplY3RzViRjbGFzc6CAAtIODxARWiRjbGFz
-  c25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjEBITV05TQXJyYXlYTlNPYmplY3Rf
-  EA9OU0tleWVkQXJjaGl2ZXLRFhdVQXJyYXmAAQgRGiMtMjc7QUZRWFlbYGt0g4ePmKqt
-  swAAAAAAAAEBAAAAAAAAABgAAAAAAAAAAAAAAAAAAAC1
+      YnBsaXN0MDDUAQIDBAUGFBVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+      AAGGoKMHCA1VJG51bGzSCQoLDFpOUy5vYmplY3RzViRjbGFzc6CAAtIODxARWiRjbGFz
+      c25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjEBITV05TQXJyYXlYTlNPYmplY3Rf
+      EA9OU0tleWVkQXJjaGl2ZXLRFhdVQXJyYXmAAQgRGiMtMjc7QUZRWFlbYGt0g4ePmKqt
+      swAAAAAAAAEBAAAAAAAAABgAAAAAAAAAAAAAAAAAAAC1
     </data>
     <key>NSTableView Supports v2 KeyBingingTable</key>
     <true/>
@@ -829,19 +830,19 @@
       <integer>1</integer>
     </dict>
     <key>NSWindow Frame NSFontPanel</key>
-    <string>1200 136 445 77 0 0 1920 1177 </string>
+    <string>940 495 445 77 0 0 1920 1177</string>
     <key>NSWindow Frame SUUpdateAlert</key>
-    <string>530 500 620 392 0 0 1680 1027 </string>
+    <string>530 500 620 392 0 0 1680 1027</string>
     <key>NSWindow Frame SessionsPreferences</key>
-    <string>269 152 606 469 0 0 1920 1177 </string>
+    <string>269 152 606 469 0 0 1920 1177</string>
     <key>NSWindow Frame SharedPreferences</key>
-    <string>529 338 918 514 0 0 1920 1177 </string>
+    <string>529 338 918 514 0 0 1920 1177</string>
     <key>NSWindow Frame iTerm Window 0</key>
-    <string>145 196 1610 951 0 0 1920 1177 </string>
+    <string>200 205 1625 972 0 0 1920 1177</string>
     <key>NSWindow Frame iTerm Window 1</key>
-    <string>0 95 1785 1041 0 0 1920 1177 </string>
+    <string>0 95 1785 1041 0 0 1920 1177</string>
     <key>NSWindow Frame iTerm Window 2</key>
-    <string>83 136 1785 1041 0 0 1920 1177 </string>
+    <string>83 136 1785 1041 0 0 1920 1177</string>
     <key>New Bookmarks</key>
     <array>
       <dict>
@@ -1518,7 +1519,7 @@
         <key>Non-ASCII Anti Aliased</key>
         <true/>
         <key>Normal Font</key>
-        <string>FiraCode-Regular 16</string>
+        <string>FiraCode-Retina 16</string>
         <key>Only The Default BG Color Uses Transparency</key>
         <false/>
         <key>Option Key Sends</key>
@@ -1656,7 +1657,8 @@
             <key>precision</key>
             <string>very_high</string>
             <key>regex</key>
-            <string> https?://([a-z0-9A-Z]+(:[a-zA-Z0-9]+)?@)?[a-z0-9A-Z]+(\.[a-z0-9A-Z]+)*((:[0-9]+)?)(/[a-zA-Z0-9;/\.\-_+%~?&amp;@=#\(\)]*)?
+            <string>
+              https?://([a-z0-9A-Z]+(:[a-zA-Z0-9]+)?@)?[a-z0-9A-Z]+(\.[a-z0-9A-Z]+)*((:[0-9]+)?)(/[a-zA-Z0-9;/\.\-_+%~?&amp;@=#\(\)]*)?
             </string>
           </dict>
           <dict>
@@ -1685,7 +1687,7 @@
             <key>algorithm</key>
             <integer>0</integer>
             <key>font</key>
-            <string>.AppleSystemUIFont 12</string>
+            <string>FiraCode-Retina 14</string>
           </dict>
           <key>components</key>
           <array>
@@ -1696,8 +1698,6 @@
               <dict>
                 <key>knobs</key>
                 <dict>
-                  <key>base: compression resistance</key>
-                  <integer>1</integer>
                   <key>base: priority</key>
                   <real>5</real>
                   <key>shared text color</key>
@@ -1719,7 +1719,7 @@
                   <key>algorithm</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>.AppleSystemUIFont 12</string>
+                  <string>FiraCode-Retina 14</string>
                 </dict>
               </dict>
             </dict>
@@ -1730,8 +1730,6 @@
               <dict>
                 <key>knobs</key>
                 <dict>
-                  <key>base: compression resistance</key>
-                  <integer>1</integer>
                   <key>base: priority</key>
                   <real>5</real>
                   <key>shared text color</key>
@@ -1753,7 +1751,7 @@
                   <key>algorithm</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>.AppleSystemUIFont 12</string>
+                  <string>FiraCode-Retina 14</string>
                 </dict>
               </dict>
             </dict>
@@ -1764,8 +1762,6 @@
               <dict>
                 <key>knobs</key>
                 <dict>
-                  <key>base: compression resistance</key>
-                  <integer>1</integer>
                   <key>base: priority</key>
                   <real>5</real>
                   <key>shared text color</key>
@@ -1787,7 +1783,7 @@
                   <key>algorithm</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>.AppleSystemUIFont 12</string>
+                  <string>FiraCode-Retina 14</string>
                 </dict>
               </dict>
             </dict>
@@ -1857,7 +1853,7 @@
     <key>NoSyncLastTipTime</key>
     <real>588134919.95319998</real>
     <key>NoSyncLaunchExperienceControllerRunCount</key>
-    <integer>12</integer>
+    <integer>14</integer>
     <key>NoSyncNeverRemindPrefsChangesLostForFile</key>
     <true/>
     <key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2724,7 +2720,7 @@
     <key>SUHasLaunchedBefore</key>
     <true/>
     <key>SULastCheckTime</key>
-    <date>2019-08-27T09:24:32Z</date>
+    <date>2019-08-28T03:18:22Z</date>
     <key>SUSendProfileInfo</key>
     <false/>
     <key>SUUpdateRelaunchingMarker</key>
