@@ -2412,11 +2412,11 @@
         <key>Name</key>
         <string>Default</string>
         <key>Non Ascii Font</key>
-        <string>NotoSansMonoCJKsc-Regular 16</string>
+        <string>NotoSansMonoCJKsc-Regular 14</string>
         <key>Non-ASCII Anti Aliased</key>
         <true/>
         <key>Normal Font</key>
-        <string>FiraCode-Retina 16</string>
+        <string>FiraCode-Light_Retina 14</string>
         <key>Only The Default BG Color Uses Transparency</key>
         <false/>
         <key>Option Key Sends</key>
