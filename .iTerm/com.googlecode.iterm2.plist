@@ -2166,9 +2166,53 @@
             <integer>0</integer>
             <key>font</key>
             <string>FiraCode-Retina 14</string>
+            <key>remove empty components</key>
+            <false/>
           </dict>
           <key>components</key>
           <array>
+            <dict>
+              <key>class</key>
+              <string>iTermStatusBarJobComponent</string>
+              <key>configuration</key>
+              <dict>
+                <key>knobs</key>
+                <dict>
+                  <key>base: compression resistance</key>
+                  <real>1</real>
+                  <key>base: priority</key>
+                  <real>5</real>
+                  <key>maxwidth</key>
+                  <real>+infinity</real>
+                  <key>minwidth</key>
+                  <integer>0</integer>
+                  <key>shared text color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.66431373806041338</real>
+                    <key>Color Space</key>
+                    <string>sRGB</string>
+                    <key>Green Component</key>
+                    <real>0.66431373806041338</real>
+                    <key>Red Component</key>
+                    <real>0.94901960784313721</real>
+                  </dict>
+                </dict>
+                <key>layout advanced configuration dictionary value</key>
+                <dict>
+                  <key>algorithm</key>
+                  <integer>0</integer>
+                  <key>auto-rainbow style</key>
+                  <integer>0</integer>
+                  <key>font</key>
+                  <string>FiraCode-Retina 14</string>
+                  <key>remove empty components</key>
+                  <false/>
+                </dict>
+              </dict>
+            </dict>
             <dict>
               <key>class</key>
               <string>iTermStatusBarCPUUtilizationComponent</string>
@@ -2183,13 +2227,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.61176472902297974</real>
+                    <real>0.85098040103912354</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.61960786581039429</real>
+                    <real>0.85098040103912354</real>
                     <key>Red Component</key>
-                    <real>1</real>
+                    <real>0.015686275437474251</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2200,6 +2244,8 @@
                   <integer>0</integer>
                   <key>font</key>
                   <string>FiraCode-Retina 14</string>
+                  <key>remove empty components</key>
+                  <false/>
                 </dict>
               </dict>
             </dict>
@@ -2217,13 +2263,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.71764707565307617</real>
+                    <real>0.94901961088180542</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>1</real>
+                    <real>0.94901961088180542</real>
                     <key>Red Component</key>
-                    <real>0.81960785388946533</real>
+                    <real>0.81568628549575806</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2234,6 +2280,8 @@
                   <integer>0</integer>
                   <key>font</key>
                   <string>FiraCode-Retina 14</string>
+                  <key>remove empty components</key>
+                  <false/>
                 </dict>
               </dict>
             </dict>
@@ -2251,13 +2299,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.65098039215686276</real>
+                    <real>0.56078433990478516</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.90196078431372551</real>
+                    <real>0.85098040103912354</real>
                     <key>Red Component</key>
-                    <real>1</real>
+                    <real>0.73333334922790527</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2268,38 +2316,36 @@
                   <integer>0</integer>
                   <key>font</key>
                   <string>FiraCode-Retina 14</string>
+                  <key>remove empty components</key>
+                  <false/>
                 </dict>
               </dict>
             </dict>
             <dict>
               <key>class</key>
-              <string>iTermStatusBarGitComponent</string>
+              <string>iTermStatusBarBatteryComponent</string>
               <key>configuration</key>
               <dict>
                 <key>knobs</key>
                 <dict>
-                  <key>base: compression resistance</key>
+                  <key>ShowPercentage</key>
                   <integer>1</integer>
+                  <key>ShowTime</key>
+                  <integer>0</integer>
                   <key>base: priority</key>
                   <real>5</real>
-                  <key>iTermStatusBarGitComponentPollingIntervalKey</key>
-                  <real>2</real>
-                  <key>maxwidth</key>
-                  <real>+infinity</real>
-                  <key>minwidth</key>
-                  <integer>0</integer>
                   <key>shared text color</key>
                   <dict>
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.9843137264251709</real>
+                    <real>0.47450980544090271</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.88627451658248901</real>
+                    <real>0.91764706373214722</real>
                     <key>Red Component</key>
-                    <real>0.63921570777893066</real>
+                    <real>0.94901961088180542</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2308,6 +2354,10 @@
                   <integer>0</integer>
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
+                  <key>font</key>
+                  <string>FiraCode-Retina 14</string>
+                  <key>remove empty components</key>
+                  <false/>
                 </dict>
               </dict>
             </dict>
