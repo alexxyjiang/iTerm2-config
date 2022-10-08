@@ -1996,7 +1996,7 @@
         <key>Non-ASCII Anti Aliased</key>
         <true/>
         <key>Normal Font</key>
-        <string>FiraCode-Light_Retina 14</string>
+        <string>FiraCode-Regular 14</string>
         <key>Only The Default BG Color Uses Transparency</key>
         <false/>
         <key>Option Key Sends</key>
@@ -2191,13 +2191,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.66431373806041338</real>
+                    <real>0.66431373357772827</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.66431373806041338</real>
+                    <real>0.66431373357772827</real>
                     <key>Red Component</key>
-                    <real>0.94901960784313721</real>
+                    <real>0.94901961088180542</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2227,13 +2227,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.85098040103912354</real>
+                    <real>0.85098039215686272</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.85098040103912354</real>
+                    <real>0.85098039215686272</real>
                     <key>Red Component</key>
-                    <real>0.015686275437474251</real>
+                    <real>0.015686274509803921</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2252,42 +2252,6 @@
             <dict>
               <key>class</key>
               <string>iTermStatusBarMemoryUtilizationComponent</string>
-              <key>configuration</key>
-              <dict>
-                <key>knobs</key>
-                <dict>
-                  <key>base: priority</key>
-                  <real>5</real>
-                  <key>shared text color</key>
-                  <dict>
-                    <key>Alpha Component</key>
-                    <real>1</real>
-                    <key>Blue Component</key>
-                    <real>0.94901961088180542</real>
-                    <key>Color Space</key>
-                    <string>sRGB</string>
-                    <key>Green Component</key>
-                    <real>0.94901961088180542</real>
-                    <key>Red Component</key>
-                    <real>0.81568628549575806</real>
-                  </dict>
-                </dict>
-                <key>layout advanced configuration dictionary value</key>
-                <dict>
-                  <key>algorithm</key>
-                  <integer>0</integer>
-                  <key>auto-rainbow style</key>
-                  <integer>0</integer>
-                  <key>font</key>
-                  <string>FiraCode-Retina 14</string>
-                  <key>remove empty components</key>
-                  <false/>
-                </dict>
-              </dict>
-            </dict>
-            <dict>
-              <key>class</key>
-              <string>iTermStatusBarNetworkUtilizationComponent</string>
               <key>configuration</key>
               <dict>
                 <key>knobs</key>
@@ -2323,15 +2287,37 @@
             </dict>
             <dict>
               <key>class</key>
-              <string>iTermStatusBarBatteryComponent</string>
+              <string>iTermStatusBarNetworkUtilizationComponent</string>
               <key>configuration</key>
               <dict>
                 <key>knobs</key>
                 <dict>
-                  <key>ShowPercentage</key>
-                  <integer>1</integer>
-                  <key>ShowTime</key>
-                  <integer>0</integer>
+                  <key>Network download color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.56078433990478516</real>
+                    <key>Color Space</key>
+                    <string>sRGB</string>
+                    <key>Green Component</key>
+                    <real>0.85098040103912354</real>
+                    <key>Red Component</key>
+                    <real>0.73333334922790527</real>
+                  </dict>
+                  <key>Network upload color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.85098040103912354</real>
+                    <key>Color Space</key>
+                    <string>sRGB</string>
+                    <key>Green Component</key>
+                    <real>0.56398308277130127</real>
+                    <key>Red Component</key>
+                    <real>0.73249530792236328</real>
+                  </dict>
                   <key>base: priority</key>
                   <real>5</real>
                   <key>shared text color</key>
@@ -2339,13 +2325,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.47450980544090271</real>
+                    <real>0.47450980392156861</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.91764706373214722</real>
+                    <real>0.91764705882352937</real>
                     <key>Red Component</key>
-                    <real>0.94901961088180542</real>
+                    <real>0.94901960784313721</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
