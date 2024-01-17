@@ -1952,6 +1952,8 @@
     <false/>
     <key>DisableFullscreenTransparency</key>
     <false/>
+    <key>EnableProxyIcon</key>
+    <false/>
     <key>EnableRendezvous</key>
     <false/>
     <key>FocusFollowsMouse</key>
@@ -2337,6 +2339,8 @@
         <false/>
         <key>Disable Window Resizing</key>
         <true/>
+        <key>Draw Powerline Glyphs</key>
+        <false/>
         <key>Flashing Bell</key>
         <false/>
         <key>Foreground Color</key>
@@ -2694,7 +2698,7 @@
         <key>Screen</key>
         <integer>-1</integer>
         <key>Scrollback Lines</key>
-        <integer>1000</integer>
+        <integer>10000</integer>
         <key>Scrollback With Status Bar</key>
         <false/>
         <key>Scrollback in Alternate Screen</key>
@@ -3045,6 +3049,8 @@
         <real>0.16</real>
         <key>Triggers</key>
         <array/>
+        <key>Unicode Normalization</key>
+        <integer>1</integer>
         <key>Unlimited Scrollback</key>
         <false/>
         <key>Use Bold Font</key>
@@ -3054,7 +3060,7 @@
         <key>Use Canonical Parser</key>
         <false/>
         <key>Use Italic Font</key>
-        <true/>
+        <false/>
         <key>Use Non-ASCII Font</key>
         <true/>
         <key>Vertical Spacing</key>
@@ -3165,7 +3171,7 @@
     <key>URLHandlersByGuid</key>
     <dict/>
     <key>UseBorder</key>
-    <false/>
+    <true/>
     <key>UseCompactLabel</key>
     <true/>
     <key>UseLionStyleFullscreen</key>
