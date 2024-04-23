@@ -2855,7 +2855,7 @@
             <key>auto-rainbow style</key>
             <integer>0</integer>
             <key>font</key>
-            <string>FiraCode-Retina 14</string>
+            <string>Iosevka-Regular 12</string>
             <key>remove empty components</key>
             <false/>
           </dict>
@@ -2881,13 +2881,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.66431373357772827</real>
+                    <real>0.94901960784313721</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.66431373357772827</real>
+                    <real>0.61568627450980395</real>
                     <key>Red Component</key>
-                    <real>0.94901961088180542</real>
+                    <real>0.7803921568627451</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2897,7 +2897,7 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>FiraCode-Retina 14</string>
+                  <string>Iosevka-Regular 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
@@ -2917,13 +2917,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.85098039215686272</real>
+                    <real>0.9137254901960784</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.85098039215686272</real>
+                    <real>0.94901960784313721</real>
                     <key>Red Component</key>
-                    <real>0.015686274509803921</real>
+                    <real>0.61568627450980395</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2933,7 +2933,7 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>FiraCode-Retina 14</string>
+                  <string>Iosevka-Regular 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
@@ -2953,13 +2953,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.56078433990478516</real>
+                    <real>0.61568627450980395</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.85098040103912354</real>
+                    <real>0.94901960784313721</real>
                     <key>Red Component</key>
-                    <real>0.73333334922790527</real>
+                    <real>0.72156862745098038</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -2969,7 +2969,7 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>FiraCode-Retina 14</string>
+                  <string>Iosevka-Regular 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
@@ -2987,26 +2987,26 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.56078433990478516</real>
+                    <real>0.94901961088180542</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.85098040103912354</real>
+                    <real>0.81176471710205078</real>
                     <key>Red Component</key>
-                    <real>0.73333334922790527</real>
+                    <real>0.61568629741668701</real>
                   </dict>
                   <key>Network upload color</key>
                   <dict>
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.85098040103912354</real>
+                    <real>0.61568629741668701</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.56398308277130127</real>
+                    <real>0.81568628549575806</real>
                     <key>Red Component</key>
-                    <real>0.73249530792236328</real>
+                    <real>0.94901961088180542</real>
                   </dict>
                   <key>base: priority</key>
                   <real>5</real>
@@ -3015,13 +3015,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.47450980392156861</real>
+                    <real>0.61568629741668701</real>
                     <key>Color Space</key>
                     <string>sRGB</string>
                     <key>Green Component</key>
-                    <real>0.91764705882352937</real>
+                    <real>0.94901961088180542</real>
                     <key>Red Component</key>
-                    <real>0.94901960784313721</real>
+                    <real>0.94901961088180542</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -3031,7 +3031,7 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>FiraCode-Retina 14</string>
+                  <string>Iosevka-Regular 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
@@ -3050,7 +3050,7 @@
         <key>Title Components</key>
         <integer>3</integer>
         <key>Transparency</key>
-        <real>0.236</real>
+        <real>0.23599999999999999</real>
         <key>Triggers</key>
         <array/>
         <key>Unicode Normalization</key>
