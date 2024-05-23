@@ -2331,6 +2331,8 @@
         <string>No</string>
         <key>Custom Directory</key>
         <string>No</string>
+        <key>Custom Locale</key>
+        <string>en_US.UTF-8</string>
         <key>Default Bookmark</key>
         <string>No</string>
         <key>Disable Printing</key>
@@ -2658,6 +2660,8 @@
             <string>[1;5F</string>
           </dict>
         </dict>
+        <key>Left Option Key Changeable</key>
+        <false/>
         <key>Link Color</key>
         <dict>
           <key>Alpha Component</key>
@@ -2693,6 +2697,8 @@
         <integer>0</integer>
         <key>Prompt Before Closing 2</key>
         <integer>0</integer>
+        <key>Right Option Key Changeable</key>
+        <false/>
         <key>Right Option Key Sends</key>
         <integer>0</integer>
         <key>Rows</key>
@@ -2743,7 +2749,7 @@
         <key>Send Code When Idle</key>
         <false/>
         <key>Set Local Environment Vars</key>
-        <true/>
+        <integer>2</integer>
         <key>Shortcut</key>
         <string></string>
         <key>Show Status Bar</key>
@@ -3048,7 +3054,7 @@
         <key>Thin Strokes</key>
         <integer>4</integer>
         <key>Title Components</key>
-        <integer>3</integer>
+        <integer>387</integer>
         <key>Transparency</key>
         <real>0.23599999999999999</real>
         <key>Triggers</key>
