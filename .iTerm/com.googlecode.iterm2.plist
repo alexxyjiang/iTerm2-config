@@ -3094,13 +3094,13 @@
         <key>Name</key>
         <string>Default</string>
         <key>Non Ascii Font</key>
-        <string>NotoSerifCJKsc-Regular 16</string>
+        <string>NotoSerifCJKsc-Regular 18</string>
         <key>Non-ASCII Anti Aliased</key>
         <true/>
         <key>Non-ASCII Ligatures</key>
         <false/>
         <key>Normal Font</key>
-        <string>IosevkaAlexJiang 16</string>
+        <string>IosevkaAlexJiang 18</string>
         <key>Only The Default BG Color Uses Transparency</key>
         <false/>
         <key>Option Key Sends</key>
@@ -3582,6 +3582,8 @@
     <integer>6</integer>
     <key>TabViewType</key>
     <integer>0</integer>
+    <key>TerminalMargin</key>
+    <integer>8</integer>
     <key>ThreeFingerEmulates</key>
     <false/>
     <key>TimeBetweenTips</key>
