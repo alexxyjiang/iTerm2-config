@@ -3293,7 +3293,7 @@
             <key>auto-rainbow style</key>
             <integer>0</integer>
             <key>font</key>
-            <string>Iosevka-Regular 12</string>
+            <string>Iosevka 12</string>
             <key>remove empty components</key>
             <false/>
           </dict>
@@ -3314,18 +3314,20 @@
                   <real>+infinity</real>
                   <key>minwidth</key>
                   <integer>0</integer>
+                  <key>shared font</key>
+                  <string></string>
                   <key>shared text color</key>
                   <dict>
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.94901960784313721</real>
+                    <real>0.9109569787979126</real>
                     <key>Color Space</key>
-                    <string>sRGB</string>
+                    <string>P3</string>
                     <key>Green Component</key>
-                    <real>0.61568627450980395</real>
+                    <real>0.53133958578109741</real>
                     <key>Red Component</key>
-                    <real>0.7803921568627451</real>
+                    <real>0.87708079814910889</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -3335,7 +3337,7 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>Iosevka-Regular 12</string>
+                  <string>Iosevka 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
@@ -3355,13 +3357,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.9137254901960784</real>
+                    <real>0.63511580228805542</real>
                     <key>Color Space</key>
-                    <string>sRGB</string>
+                    <string>P3</string>
                     <key>Green Component</key>
-                    <real>0.94901960784313721</real>
+                    <real>0.9745514988899231</real>
                     <key>Red Component</key>
-                    <real>0.61568627450980395</real>
+                    <real>0.68687516450881958</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -3371,7 +3373,7 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>Iosevka-Regular 12</string>
+                  <string>Iosevka 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
@@ -3391,13 +3393,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.61568627450980395</real>
+                    <real>0.59343737363815308</real>
                     <key>Color Space</key>
-                    <string>sRGB</string>
+                    <string>P3</string>
                     <key>Green Component</key>
-                    <real>0.94901960784313721</real>
+                    <real>0.9033045768737793</real>
                     <key>Red Component</key>
-                    <real>0.72156862745098038</real>
+                    <real>0.93436688184738159</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -3407,7 +3409,7 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>Iosevka-Regular 12</string>
+                  <string>Iosevka 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
@@ -3425,26 +3427,52 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.94901961088180542</real>
+                    <real>0.8525274395942688</real>
                     <key>Color Space</key>
-                    <string>sRGB</string>
+                    <string>P3</string>
                     <key>Green Component</key>
-                    <real>0.81176471710205078</real>
+                    <real>0.40768140554428101</real>
                     <key>Red Component</key>
-                    <real>0.61568629741668701</real>
+                    <real>0.29038673639297485</real>
+                  </dict>
+                  <key>Network download text color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.85251271724700928</real>
+                    <key>Color Space</key>
+                    <string>P3</string>
+                    <key>Green Component</key>
+                    <real>0.40760767459869385</real>
+                    <key>Red Component</key>
+                    <real>0.28762474656105042</real>
                   </dict>
                   <key>Network upload color</key>
                   <dict>
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.61568629741668701</real>
+                    <real>0.23292464017868042</real>
                     <key>Color Space</key>
-                    <string>sRGB</string>
+                    <string>P3</string>
                     <key>Green Component</key>
-                    <real>0.81568628549575806</real>
+                    <real>0.66292160749435425</real>
                     <key>Red Component</key>
-                    <real>0.94901961088180542</real>
+                    <real>0.94963699579238892</real>
+                  </dict>
+                  <key>Network upload text color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.23292464017868042</real>
+                    <key>Color Space</key>
+                    <string>P3</string>
+                    <key>Green Component</key>
+                    <real>0.66292160749435425</real>
+                    <key>Red Component</key>
+                    <real>0.94963699579238892</real>
                   </dict>
                   <key>base: priority</key>
                   <real>5</real>
@@ -3453,13 +3481,13 @@
                     <key>Alpha Component</key>
                     <real>1</real>
                     <key>Blue Component</key>
-                    <real>0.61568629741668701</real>
+                    <real>0.90896302461624146</real>
                     <key>Color Space</key>
-                    <string>sRGB</string>
+                    <string>P3</string>
                     <key>Green Component</key>
-                    <real>0.94901961088180542</real>
+                    <real>0.80054283142089844</real>
                     <key>Red Component</key>
-                    <real>0.94901961088180542</real>
+                    <real>0.59162747859954834</real>
                   </dict>
                 </dict>
                 <key>layout advanced configuration dictionary value</key>
@@ -3469,7 +3497,47 @@
                   <key>auto-rainbow style</key>
                   <integer>0</integer>
                   <key>font</key>
-                  <string>Iosevka-Regular 12</string>
+                  <string>Iosevka 12</string>
+                  <key>remove empty components</key>
+                  <false/>
+                </dict>
+              </dict>
+            </dict>
+            <dict>
+              <key>class</key>
+              <string>iTermStatusBarBatteryComponent</string>
+              <key>configuration</key>
+              <dict>
+                <key>knobs</key>
+                <dict>
+                  <key>ShowPercentage</key>
+                  <integer>1</integer>
+                  <key>ShowTime</key>
+                  <integer>0</integer>
+                  <key>base: priority</key>
+                  <real>5</real>
+                  <key>shared text color</key>
+                  <dict>
+                    <key>Alpha Component</key>
+                    <real>1</real>
+                    <key>Blue Component</key>
+                    <real>0.9807313084602356</real>
+                    <key>Color Space</key>
+                    <string>P3</string>
+                    <key>Green Component</key>
+                    <real>0.98105186223983765</real>
+                    <key>Red Component</key>
+                    <real>0.99655550718307495</real>
+                  </dict>
+                </dict>
+                <key>layout advanced configuration dictionary value</key>
+                <dict>
+                  <key>algorithm</key>
+                  <integer>0</integer>
+                  <key>auto-rainbow style</key>
+                  <integer>0</integer>
+                  <key>font</key>
+                  <string>Iosevka 12</string>
                   <key>remove empty components</key>
                   <false/>
                 </dict>
